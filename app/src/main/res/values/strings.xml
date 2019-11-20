@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HW6</string>
+    <string name="name">Name</string>
+    <string name="room_number">Room Number</string>
+    <string name="date">Date</string>
+    <string name="price">Price</string>
+    <string name="save_reservation">Save Reservation</string>
+    <string name="delete">DELETE</string>
+</resources>
